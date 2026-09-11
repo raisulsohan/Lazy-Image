@@ -2,7 +2,7 @@
 
 > **Generate AI images with ChatGPT without ever leaving After Effects or Premiere Pro.**
 
-Made by **[Raisul Sohan](https://raisulsohan.com)** · Version 2.3
+Made by **[Raisul Sohan](https://raisulsohan.com)** · Version 2.4
 
 <p align="center">
   <img src="assets/preview.png" alt="The Lazy-Image panel running inside After Effects" width="750">
@@ -55,12 +55,17 @@ Nothing runs in the background, and it never steals keyboard focus from Adobe.
 
 Lazy-Image is a **paid product** and its source code is not public.
 
-Each copy is licensed to one buyer and activated on their computer.
+Each copy is licensed to the buyer and runs on two of their computers, with a
+**Deactivate this computer** button for moving to a new machine.
 
-**📧 Email [lettertosohan@gmail.com](mailto:lettertosohan@gmail.com)** for pricing and a copy.
+**🛒 Buy it on [SupportKori](https://www.supportkori.com/)** — your activation key arrives the
+moment you pay.
 
-Installation takes about a minute: unzip, run the installer, paste the activation key you're
-sent, and log in to ChatGPT once.
+**📧 Or email [lettertosohan@gmail.com](mailto:lettertosohan@gmail.com)** if you'd rather buy
+directly, or have a question first.
+
+Installation takes about a minute: unzip, run the installer, paste your key, and log in to
+ChatGPT once.
 
 ---
 
